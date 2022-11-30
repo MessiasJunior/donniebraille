@@ -1,0 +1,5 @@
+classes=26
+train  = data/donnietrain.txt
+valid  = data/donnievalidation.txt
+names = data/donnie.names
+backup = backup/
